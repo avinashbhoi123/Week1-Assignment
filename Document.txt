@@ -1,0 +1,36 @@
+1. Write a simple program in HTML that displays the heading "HTML defines the content and structure of your website" on the web browser?
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>majhinaukari</title>
+</head>
+<body>
+   <h1>click here for the job</h1>
+</body>
+</html>
+2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. You can use comments to explain your code, which can help you when you edit the source code at a later date..
+ex
+ <!--AVINASH-->
+3. Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>majhinaukari</title>
+</head>
+<body>
+       <h1>click here for the job</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis voluptatibus nulla, optio maxime eaque fugiatbr
+            <br> officiis rerum, eveniet atque nobis recusandae labore tempore corrupti non eos distinctio quibusdam modi iure magni cumque nihil aliquid excepturi? Ullam quia rerum ipsam natus consectetur facere?
+            <hr> Earum itaque sint quisquam, ipsum sunt consectetur esse maxime quam quaerat laudantium amet, soluta totam atque? Voluptatibus deleniti dolorum recusandae iusto libero blanditiis harum neque. Saepe adipisci nam illum architecto omnis nihil et unde, fuga, fugiat dolore animi voluptatum sint molestiae natus commodi eveniet est enim magni. Ullam perspiciatis sequi sed ipsum impedit cum beatae at veniam?</p>
+</body>
+</html>
+
+4. Write a short note on Tag and element with an example?
+Each element is an individual component on a particular web page or document. They are in every part of the page, including the header, footer, body, and text. The format of a tag is a start tag followed by the content and an end tag, eventually.
+5. What is the DOCTYPE Declaration in HTML?
+The HTML document type declaration, also known as DOCTYPE , is the first line of code required in every HTML or XHTML document. The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in. This ensures that the web page is parsed the same way by different web browsers.
